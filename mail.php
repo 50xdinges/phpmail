@@ -8,7 +8,7 @@
         $email = "dinges@post.nl"; // sender mail address use your own!
 
         // Recipient email address
-        $to = 'vltn@vltn.gc-webhosting.nl';
+        $to = 'p.veltman@graafschapcollege.nl';
         
         // Create email headers
         $headers = 'From: '. $email . "\r\n" .
